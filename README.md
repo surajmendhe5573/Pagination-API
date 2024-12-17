@@ -24,3 +24,4 @@ This repository contains a simple backend API to manage posts. It provides endpo
     "title": "Post Title",
     "description": "Post Description"
   }
+  
